@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MapQuestDemo</string>
+    <string name="loading">Loading...</string>
+    <string name="instagram_endpoint">https://api.instagram.com/v1/tags/selfie/media/recent/?client_id=b1c9856ab1df4f218499dc456aea5280</string>
+    <string name="images">images</string>
+    <string name="low_resolution">low_resolution</string>
+    <string name="url">url</string>
+    <string name="pagination">pagination</string>
+    <string name="next_url">next_url</string>
+
+
+
+</resources>
